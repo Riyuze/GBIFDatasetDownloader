@@ -38,13 +38,13 @@ Firstly, head to www.gbif.org and look up a species you would like to use for yo
 
 Run the CsvWriter.py using:
 ```bash
-py CsvWriter.py
+python CsvWriter.py
 ```
 This will create a new CSV file, containing the URLS to every image in the dataset.
 
 Next, create a folder named "**DownloadedImages**" and Run:
 ```bash
-py Downloader.py
+python Downloader.py
 ```
 The script will then start downloading the images and saving it to the "**DownloadedImages**" folder.
 
