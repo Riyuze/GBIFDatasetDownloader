@@ -58,4 +58,5 @@ Some of the images downloaded may be corrupt or broken and I recommend using Bad
 Bad Peggy can be found here: 
 
 https://www.majorgeeks.com/files/details/bad_peggy.html
+
 https://github.com/coderslagoon/BadPeggy
