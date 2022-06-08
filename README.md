@@ -55,5 +55,7 @@ Images saved will be in .jpg format.
 
 Some of the images downloaded may be corrupt or broken and I recommend using Bad Peggy to check for these broken images.
 
-Bad Peggy can be found here: https://www.majorgeeks.com/files/details/bad_peggy.html
+Bad Peggy can be found here: 
+
+https://www.majorgeeks.com/files/details/bad_peggy.html
 https://github.com/coderslagoon/BadPeggy
